@@ -1,1 +1,0 @@
-# protoga-resolution
